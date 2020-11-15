@@ -7,7 +7,7 @@ description: "Goals determine what you going to be!"
 keyword: "L, L Blog, L的博客, 渗透测试, CTF,"
 url: "http://in-a-word.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/in-a-word/in-a-word.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
