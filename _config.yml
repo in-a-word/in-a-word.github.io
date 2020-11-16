@@ -1,17 +1,17 @@
 # Site settings
-title: 猿猴的智慧树
+title: 后浪的智慧树
 SEOTitle: L的博客 | L Blog
 header-img: img/post-bg-desk.jpg
 email: stf.kl@foxmail.com
-description: "犹如花园里智慧树对你我的提点，这里对你也许会起一点相同的作用."
+description: "Goals determine what you going to be!"
 keyword: "L, L Blog, L的博客, 渗透测试, CTF,"
 url: "http://in-a-word.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/in-a-word/in-a-word.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "犹如花园里智慧树对你我的提点，这里对你也许会起一点相同的作用!"
 sidebar-avatar: /img/1.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
