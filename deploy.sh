@@ -17,6 +17,6 @@ git add -A
 git commit -m 'deploy'
 
 # 部署到 https://<USERNAME>.github.io
-git push -f https://github.com/in-a-word/in-a-word.github.io.git
+git push -f https://in-a-word.github.io/
 
 cd -
