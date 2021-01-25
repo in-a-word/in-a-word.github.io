@@ -1,3 +1,14 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      DVWA系列 				# 标题 
+subtitle:   不安全的身份验证Insecure CAPTCHA    #副标题
+date:       2020-11-20 				# 时间
+author:     L 						# 作者
+header-img: img/dvwa.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - DVWA
+---
 # DVWA系列之---不安全的身份验证Insecure CAPTCHA
 
 #### 概述：Insecure CAPTCHA，意思是不安全的验证码，CAPTCHA是Completely Automated Public Turing Test to Tell Computers and Humans Apart (全自动区分计算机和人类的图灵测试)的简称。
