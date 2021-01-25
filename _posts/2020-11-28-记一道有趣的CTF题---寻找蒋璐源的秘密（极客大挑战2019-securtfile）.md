@@ -1,3 +1,14 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      CTF 				# 标题 
+subtitle:   PHP伪协议    #副标题
+date:       2020-11-28 				# 时间
+author:     L 						# 作者
+header-img: img/jiang.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - CTF
+---
 # 记一道有趣的CTF题---寻找蒋璐源的秘密（极客大挑战2019-securtfile）
 
 BUUCTF上的一道web题，难搞的ctf题千篇一律，有趣的题目万里挑一，就把这个好玩的题做个小记。
