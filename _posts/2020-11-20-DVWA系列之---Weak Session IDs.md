@@ -1,3 +1,14 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      DVWA系列 				# 标题 
+subtitle:   Weak Session IDs #副标题
+date:       2020-11-20 				# 时间
+author:     L 						# 作者
+header-img: img/dvwa.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - DVWA
+---
 # DVWA系列之---Weak Session IDs
 
 #### 概述：当用户登录后，在服务器就会创建一个会话(session)，叫做**会话控制**，在seesion存活期间访问页面的时候就不用登录，只需要携带Sesion去访问。
