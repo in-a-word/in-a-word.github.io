@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      DVWA系列之---暴力破解 				# 标题 
+title:      DVWA系列 				# 标题 
 subtitle:   暴力破解 #副标题
 date:       2020-11-19 				# 时间
 author:     L 						# 作者
@@ -127,8 +127,4 @@ if( isset( $_GET[ 'Login' ] ) ) {
 
 impossible级别的，，，，
 
-![TXLYA1PB~FZX~85GSSXV`RU](https://tvax2.sinaimg.cn/large/006O5vizly1gkum7btjp3j30bt03nmx2.jpg)
-
-添加了失败次数以及失败等待时间。。。。15分钟，防止csrf的token，以及过滤SQL注入的两个PHP函数，后面还有一个PDO
-
-暂时还没有太好的想法
+![TXLYA1PB~FZX~85GSSXV`RU](https://tvax2.sinaimg.cn/large/006O5vizly1gkum7b
