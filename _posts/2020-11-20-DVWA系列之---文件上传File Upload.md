@@ -1,3 +1,14 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      DVWA系列 				# 标题 
+subtitle:   文件上传File Upload    #副标题
+date:       2020-11-20 				# 时间
+author:     L 						# 作者
+header-img: img/dvwa.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - DVWA
+---
 # DVWA系列之---文件上传File Upload
 
 #### 概述：
