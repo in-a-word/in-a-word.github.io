@@ -1,7 +1,7 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      漏洞原理及应用 				# 标题 
-subtitle:   体系结构    #副标题
+title:      OWASP TOP 				# 标题 
+subtitle:      漏洞原理及修复建议 #副标题
 date:       2021-3-2 				# 时间
 author:     L 						# 作者
 header-img: img/8.jpg 	#这篇文章标题背景图片
